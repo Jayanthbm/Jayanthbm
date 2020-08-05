@@ -1,5 +1,12 @@
-### Hi there 👋
-I enjoy building full-stack applications.My go to languages are JavaScript and Php
+## About me
+I'm Jayanthbharadwaj. An Web ,Mobile Application developer and :coffee: lover.
 
-![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=Jayanthbm&show_icons=true)
+## Things I am passionate about
+
+- :computer: Web Apps
+- :iphone: Mobile Apps
+- Open source :octocat:
+- :tennis: Cricket
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanthbm)
