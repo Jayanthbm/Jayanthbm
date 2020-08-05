@@ -5,7 +5,7 @@ I'm Jayanthbharadwaj. An Web ,Mobile Application developer and :coffee: lover.
 
 - :computer: Web Apps
 - :iphone: Mobile Apps
-- Open source :octocat:
+- octocat: Open source :
 - :tennis: Cricket
 
 
